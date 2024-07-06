@@ -63,4 +63,9 @@ https://github.com/Cristhval/DeberMatrices/blob/main/DivisionMatrices.cpp
 
 13.Potencia de matrices
 
+https://github.com/Cristhval/DeberMatrices/blob/main/PotenciaMatrices.cpp
+
+
+
+
 
