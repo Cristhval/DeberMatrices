@@ -59,7 +59,7 @@ for (int i = 0; i < 3; i++)
     for (int j = 0; j < 3; j++)
     {
         suma[i][j] = matriz1[i][j] + matriz2[i][j];
-        printf("  %d  ", suma[i][j]);
+        printf("  %X  ", suma[i][j]);//Usamos %X para transformar la suma a hexadecimal
     }
     printf("\n");
 }
