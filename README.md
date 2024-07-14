@@ -66,6 +66,11 @@ https://github.com/Cristhval/DeberMatrices/blob/main/DivisionMatrices.cpp
 https://github.com/Cristhval/DeberMatrices/blob/main/PotenciaMatrices.cpp
 
 
+14.Orden de cartas
+
+
+
+
 
 
 
