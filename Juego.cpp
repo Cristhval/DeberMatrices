@@ -93,6 +93,7 @@ void Dibujar() {
     }
 
     // Imprimir puntaje y puntaje mas alto
+    printf("\033[K"); // Esta secuencia ANSI limpia la linea
     printf("Puntaje: %d\n", puntaje);
     printf("Puntaje mas alto: %d\n", puntajeMasAlto);
 }
@@ -176,7 +177,7 @@ int main() {
                     Dibujar();
                     Entrada();
                     Logica();
-                    Sleep(30);
+                    Sleep(50); //Apartado para cambiar la velocidad del juego
                 }
 
                 // Mostrar cursor de la consola
