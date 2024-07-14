@@ -68,6 +68,11 @@ https://github.com/Cristhval/DeberMatrices/blob/main/PotenciaMatrices.cpp
 
 14.Orden de cartas
 
+https://github.com/Cristhval/DeberMatrices/blob/main/OrdenCartas.cpp
+
+
+15.Juego flappybird
+
 
 
 
