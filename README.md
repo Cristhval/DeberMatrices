@@ -78,6 +78,8 @@ https://github.com/Cristhval/DeberMatrices/blob/main/Juego.cpp
 
 16.Laberinto
 
+https://github.com/Cristhval/DeberMatrices/blob/main/algoritmolaberinto.cpp
+
 
 
 
